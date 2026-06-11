@@ -1,0 +1,2 @@
+# WebDataScraper
+Yahooニュースの最新トピックをスクレイピングし、CSVファイルに保存するPythonツールです。
